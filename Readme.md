@@ -1,4 +1,4 @@
-# Tetris - 
+# Tetris - https://uditi1.github.io/Tetris-Game/
 
 A simple HTML and javascript tetris game. It is 10 row width and 20 column height tetris game.
 
